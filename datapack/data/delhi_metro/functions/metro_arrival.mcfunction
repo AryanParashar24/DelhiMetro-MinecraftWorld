@@ -12,4 +12,4 @@ title @a[distance=..50] subtitle {"text":"Please stand clear of the doors.","col
 title @a[distance=..50] title {"text":"Train Arriving","color":"yellow","bold":true}
 
 # Chat announcement
-tellraw @a[distance=..50] ["",{"text":"[VMRTA] ","color":"blue","bold":true},{"text":"A train is now arriving at this station. Please allow passengers to exit before boarding.","color":"white"}]
+tellraw @a[distance=..50] ["",{"text":"[DMTA] ","color":"blue","bold":true},{"text":"A train is now arriving at this station. Please allow passengers to exit before boarding.","color":"white"}]

@@ -1,10 +1,10 @@
-# AAA Minecraft Metro Megacity: "Vidyut" (Inspired by Delhi)
+# AAA Minecraft Metro Megacity: "Delhi Metro"
 
 ## 1. Complete Build Plan & Overview
-**Project Name:** Vidyut Megacity
+**Project Name:** Delhi Metro Megacity
 **Map Dimensions:** 6000 x 6000 blocks (expandable)
 **World Theme:** Modern Indian Megacity with deep heritage roots, centered around a state-of-the-art metro system.
-**Lore:** Vidyut (meaning "electricity/lightning") was an ancient capital that underwent rapid modernization in the 21st century. It is now governed by the Vidyut Municipal Corporation (VMC), with transit overseen by the Vidyut Mass Rapid Transit Authority (VMRTA). It boasts a bustling economy driven by a massive tech sector, heavy industry, and a thriving heritage tourism industry.
+**Lore:** A massive fictionalized city inspired by the real-world Delhi. It is an ancient capital that underwent rapid modernization in the 21st century. It is now governed by the Delhi Municipal Corporation (DMC), with transit overseen by the Delhi Mass Rapid Transit Authority (DMTA). It boasts a bustling economy driven by a massive tech sector, heavy industry, and a thriving heritage tourism industry.
 
 ## 2. Terrain Plan & WorldPainter Strategy
 **Biome Strategy:**
@@ -21,18 +21,18 @@
 
 ## 3. District Layout
 The city is divided into 7 distinct zones:
-1. **Vidyut Downtown (Financial District):** Center. Glass towers, VMRTA HQ, luxury hotels, massive convention center.
-2. **Purana Vidyut (Heritage City):** North. Narrow alleys, bustling markets (bazaars), sandstone monuments, colonial-era municipal buildings, street food stalls.
+1. **Delhi Downtown (Financial District):** Center. Glass towers, DMTA HQ, luxury hotels, massive convention center.
+2. **Purana Delhi (Heritage City):** North. Narrow alleys, bustling markets (bazaars), sandstone monuments, colonial-era municipal buildings, street food stalls.
 3. **Cyber Hub (Tech District):** West. AI companies, data centers, modern startup campuses, glass-and-steel architecture.
 4. **Gulmohar Enclave (Residential):** South. High-rise apartments, independent gated villas, parks, schools, hospitals.
-5. **Vidyut University Campus:** South-East. Large open green spaces, brick-built lecture halls, hostels, sports complex.
+5. **Delhi University Campus:** South-East. Large open green spaces, brick-built lecture halls, hostels, sports complex.
 6. **Udyog Vihar (Industrial Area):** North-East. Warehouses, container depots, logistics hub, factories.
-7. **Vidyut International Airport (VIA):** Far East. Two large terminals, runways, maintenance hangars.
+7. **Delhi International Airport (VIA):** Far East. Two large terminals, runways, maintenance hangars.
 
-## 4. Metro Network Blueprint (VMRTA)
-The heart of Vidyut. 12 distinct lines, ~85 stations.
+## 4. Metro Network Blueprint (DMTA)
+The heart of Delhi. 12 distinct lines, ~85 stations.
 1. **Blue Line (East-West):** Cyber Hub to Industrial Area.
-2. **Yellow Line (North-South):** Purana Vidyut to Gulmohar Enclave.
+2. **Yellow Line (North-South):** Purana Delhi to Gulmohar Enclave.
 3. **Red Line:** Major commercial artery.
 4. **Green Line:** Connects the University and outer suburbs.
 5. **Purple Line:** Circle line connecting major interchanges.
@@ -52,7 +52,7 @@ The heart of Vidyut. 12 distinct lines, ~85 stations.
 - **Back-of-house:** Staff rooms, electrical/ventilation shafts.
 
 **Unique Station Examples:**
-- **Vidyut Central (Interchange):** Massive 4-level underground hub.
+- **Delhi Central (Interchange):** Massive 4-level underground hub.
 - **Heritage Square (Brown/Yellow Line):** Deep underground, arched sandstone ceilings, historical murals.
 - **Cyber City Elevated (Blue/Silver Line):** Sleek white concrete, blue glass canopy, futuristic lighting.
 - **Terminal 1 (Orange Line):** Integrated directly into the airport basement with massive skylights.
@@ -64,12 +64,12 @@ The heart of Vidyut. 12 distinct lines, ~85 stations.
 4. **Maintenance Train:** Yellow/Black hazard blocks, flatbeds carrying rails and gravel.
 
 ## 7. Building List
-**Financial District:** VMC Tower, VMRTA Central HQ, The Diamond Hotel, MegaMall Vidyut.
+**Financial District:** DMC Tower, DMTA Central HQ, The Diamond Hotel, MegaMall Delhi.
 **Heritage District:** The Grand Mosque, Red Stone Fort, Spice Market, Colonial Post Office.
-**Residential:** Sunrise Towers (Apartments), Gulmohar Villas, Vidyut City Hospital, Central Police Station.
+**Residential:** Sunrise Towers (Apartments), Gulmohar Villas, Delhi City Hospital, Central Police Station.
 **Tech District:** Nexus Data Center, Innovate IT Park, Cyber Plaza.
 **University:** Central Library (Dome structure), Engineering Labs, Olympic-size Stadium.
-**Industrial:** Mega-Storage Facility, Vidyut Power Substation, Freight Depot.
+**Industrial:** Mega-Storage Facility, Delhi Power Substation, Freight Depot.
 **Airport:** T1 (Domestic), T2 (International), ATC Tower, Hangar A & B.
 
 ## 8. Construction Phases
@@ -106,7 +106,7 @@ The heart of Vidyut. 12 distinct lines, ~85 stations.
 ## 11. NPC Placement & Loot Tables
 **NPCs (Custom Villagers/Armor Stands):**
 - **Ticket Vendors:** In metro stations.
-- **Street Food Vendors:** In Purana Vidyut, selling cooked meats and custom potions (chai/lassi).
+- **Street Food Vendors:** In Purana Delhi, selling cooked meats and custom potions (chai/lassi).
 - **Corporate Workers:** Wandering the Financial District.
 - **Security Guards:** At airport terminals, government buildings, and station entrances.
 **Loot Tables (Hidden Chests):**
@@ -118,7 +118,7 @@ The heart of Vidyut. 12 distinct lines, ~85 stations.
 **Signage:**
 - Glowing Item Frames for Metro Line indicators.
 - Hanging signs (mangrove/crimson for contrast) for street names.
-- Banners detailing VMRTA logos and station directions.
+- Banners detailing DMTA logos and station directions.
 **Lighting:**
 - Prevent mob spawns seamlessly.
 - Streetlights: Deepslate walls, iron bars, daylight detectors, and redstone lamps.
