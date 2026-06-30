@@ -1,78 +1,94 @@
-# AAA Minecraft Metro Megacity: "Delhi Metro"
+# AAA Minecraft Metro Megacity: Delhi Megacity
 
 ## 1. Complete Build Plan & Overview
-**Project Name:** Delhi Metro Megacity
-**Map Dimensions:** 6000 x 6000 blocks (expandable)
-**World Theme:** Modern Indian Megacity with deep heritage roots, centered around a state-of-the-art metro system.
-**Lore:** A massive fictionalized city inspired by the real-world Delhi. It is an ancient capital that underwent rapid modernization in the 21st century. It is now governed by the Delhi Municipal Corporation (DMC), with transit overseen by the Delhi Mass Rapid Transit Authority (DMTA). It boasts a bustling economy driven by a massive tech sector, heavy industry, and a thriving heritage tourism industry.
+**Project Name:** Delhi Megacity
+**Map Dimensions:** 6000 x 6000 blocks minimum (Expandable for future updates)
+**World Theme:** An immersive, living metropolitan city centered around one of the world's most advanced metro systems. It draws deep inspiration from Delhi's urban landscape while remaining an entirely original, fictional megacity suitable for commercial distribution on Minecraft Marketplace or Planet Minecraft.
 
-## 2. Terrain Plan & WorldPainter Strategy
-**Biome Strategy:**
-- Plains/Savanna base for the main city.
-- River (The "Neel" River) cutting through the eastern third.
-- Forest/Jungle edges on the southern border.
-- Elevated plateaus in the west for the Tech District.
+**World Goals:**
+- **Immersion:** The world must feel alive. Every district should tell a story, and every neighborhood should feel distinct.
+- **Scale:** Players should be able to spend hundreds of hours exploring the city, from the highest skyscrapers to the deepest metro tunnels.
+- **Quality:** Premium-quality build. No empty shells. Every block placement must appear intentional.
 
-**WorldPainter Plan:**
-1. **Base Generation:** Flat plains at Y=64, gradually rising to Y=90 towards the southwest.
-2. **Water Bodies:** 120-block wide meandering river, two large artificial lakes (Lotus Lake in the center, Crescent Lake in the Tech District).
-3. **Forests:** Custom tree layers using Schematics for Banyan, Neem, and Peepal trees on the outskirts.
-4. **Transit Carving:** Pre-carve a grid of 15x15 tunnels for underground metro lines and 25-block wide depressed highways.
+## 2. Lore & History
+**The City:** A fictionalized ancient capital that underwent a massive modern renaissance. The city is governed by the Delhi Municipal Corporation (DMC), which oversees everything from heritage preservation to high-tech infrastructure.
+**Economy & Population:** Driven by a thriving tech sector, logistics hub, and robust heritage tourism. It boasts a massive, bustling population.
+**Transit Authority:** The Delhi Mass Rapid Transit Authority (DMTA) manages all public transit, operating independently from real-world entities.
 
-## 3. District Layout
-The city is divided into 7 distinct zones:
-1. **Delhi Downtown (Financial District):** Center. Glass towers, DMTA HQ, luxury hotels, massive convention center.
-2. **Purana Delhi (Heritage City):** North. Narrow alleys, bustling markets (bazaars), sandstone monuments, colonial-era municipal buildings, street food stalls.
-3. **Cyber Hub (Tech District):** West. AI companies, data centers, modern startup campuses, glass-and-steel architecture.
-4. **Gulmohar Enclave (Residential):** South. High-rise apartments, independent gated villas, parks, schools, hospitals.
-5. **Delhi University Campus:** South-East. Large open green spaces, brick-built lecture halls, hostels, sports complex.
-6. **Udyog Vihar (Industrial Area):** North-East. Warehouses, container depots, logistics hub, factories.
-7. **Delhi International Airport (VIA):** Far East. Two large terminals, runways, maintenance hangars.
+## 3. World Size & Terrain Plan (WorldPainter Plan)
+The 6000x6000 area will encompass diverse biomes and topography:
+- **Base Generation:** Plains and Savanna base (Y=64), slightly rising in the west.
+- **Water Bodies:** The mighty 'Neel River' bisects the eastern third. Large artificial lakes including 'Lotus Lake' (center) and 'Crescent Lake' (Tech District).
+- **Greenery:** Forest edges to the south, wildlife reserves, and dense patches of custom trees (Banyan, Neem).
+- **Transit Carving:** Pre-carved 15x15 tunnels for underground metro lines, depressed highways, and elevated viaducts.
 
-## 4. Metro Network Blueprint (DMTA)
-The heart of Delhi. 12 distinct lines, ~85 stations.
-1. **Blue Line (East-West):** Cyber Hub to Industrial Area.
-2. **Yellow Line (North-South):** Purana Delhi to Gulmohar Enclave.
-3. **Red Line:** Major commercial artery.
-4. **Green Line:** Connects the University and outer suburbs.
-5. **Purple Line:** Circle line connecting major interchanges.
-6. **Pink Line:** Inner ring road route.
-7. **Orange Line (Airport Express):** High-speed, fewer stops. Downtown -> Airport.
-8. **Silver Line:** Connects new tech parks.
-9. **Aqua Line:** Scenic route along the Neel River.
-10. **Brown Line:** Deep underground, servicing the dense Heritage City.
-11. **Gold Line:** Luxury shopping district loop.
-12. **White Line:** Industrial logistics and worker transport.
+## 4. District Layout
+1. **Modern Financial District (Downtown):** The core. Tall glass skyscrapers, corporate offices, luxury hotels, MegaMall, and a massive convention center.
+2. **Old Heritage City (Purana Delhi):** North. Narrow alleys, bustling markets, historic sandstone architecture, temples, mosques, colonial municipal buildings, and street food.
+3. **Cyber Hub (Tech District):** West. AI companies, expansive data centers, modern startup offices, and IT parks with glass-and-steel architecture.
+4. **Gulmohar Enclave (Residential):** South. High-rise apartments, independent gated villas, parks, schools, hospitals, and sports complexes.
+5. **Delhi University Campus:** South-East. Vast green spaces, brick lecture halls, library, hostels, sports ground, and advanced laboratories.
+6. **Udyog Vihar (Industrial Area):** North-East. Warehouses, container depots, logistics hubs, factories, and power substations.
+7. **Delhi International Airport (VIA):** Far East. Two enormous terminals, metro connection, runways, taxiways, aircraft, control tower, and maintenance hangars.
 
-## 5. Station Designs
-**General Station Elements:**
-- **Ticket Hall:** Automated gates (iron trapdoors/pistons), ticket counters, security scanners (end rods & string).
-- **Access:** Escalators (stairs with moving water beneath glass or clever block stairs), Elevators (water columns or redstone flying machines).
-- **Platforms:** Screen doors (glass panes & iron doors), LED arrival boards, yellow tactile paving (yellow concrete powder/terracotta), priority seating, emergency exits.
-- **Back-of-house:** Staff rooms, electrical/ventilation shafts.
+## 5. The Metro System Blueprint (DMTA)
+The heart of the megacity, requiring ~70–100 distinct stations. It connects all districts.
+**12 Complete Lines (Unique Colors):**
+1. **Blue Line:** Major east-west artery connecting Cyber Hub to the Industrial Area.
+2. **Yellow Line:** The central north-south spine from Purana Delhi to Gulmohar Enclave.
+3. **Red Line:** Commercial artery servicing major shopping districts.
+4. **Green Line:** Connects the University campus and outer suburban parks.
+5. **Purple Line:** The primary circle line connecting major interchange hubs.
+6. **Pink Line:** An inner ring route running alongside the ring roads.
+7. **Orange Line (Airport Express):** High-speed, fewer stops from Downtown directly to the Airport terminals.
+8. **Silver Line:** Connects new tech parks and business centers.
+9. **Aqua Line:** Scenic elevated route running parallel to the Neel River.
+10. **Brown Line:** Deep underground route servicing the dense Heritage City.
+11. **Gold Line:** A premium loop around the luxury shopping and hotel district.
+12. **White Line:** Heavy-duty transport for industrial workers and logistics staff.
 
-**Unique Station Examples:**
-- **Delhi Central (Interchange):** Massive 4-level underground hub.
-- **Heritage Square (Brown/Yellow Line):** Deep underground, arched sandstone ceilings, historical murals.
-- **Cyber City Elevated (Blue/Silver Line):** Sleek white concrete, blue glass canopy, futuristic lighting.
-- **Terminal 1 (Orange Line):** Integrated directly into the airport basement with massive skylights.
+## 6. Station Designs
+Every station must feature unique architecture based on its location (underground, elevated, at-grade, massive interchanges, etc.).
+**Mandatory Station Elements:**
+- Ticket halls with automated gates and ticket counters.
+- Escalators, elevators, and wide staircases.
+- Security areas with scanners.
+- Platform screen doors (glass and iron doors).
+- Passenger waiting areas with priority seating.
+- Clear signage (directional and line info).
+- Emergency exits, staff rooms, electrical rooms, and ventilation shafts.
+- Detailed ceilings and strategic lighting.
+- Redstone-powered automatic train arrivals (using command block arrays).
 
-## 6. Train Designs
-1. **Standard Metro (6 Cars):** White with colored stripes (matching the line). Iron trapdoor seating, redstone lamp lighting, end rod poles.
-2. **Airport Express:** Plush interior (colored wool/carpet seats), luggage racks (scaffolding/chests), aerodynamic front.
-3. **High Capacity (8 Cars):** Wider aisles, longitudinal seating, standing room emphasis.
-4. **Maintenance Train:** Yellow/Black hazard blocks, flatbeds carrying rails and gravel.
+## 7. Train Designs
+Multiple train types will populate the network:
+1. **Airport Express:** Plush interior seating (colored wool/carpet), luggage racks, aerodynamic front, standing poles, LED route maps.
+2. **Standard Metro:** 6-8 cars, white body with colored stripes matching the line, driver cabin, automatic doors, emergency buttons.
+3. **High Capacity Metro:** Wider aisles, longitudinal seating designed for heavy crush loads.
+4. **Maintenance Train:** Yellow/black hazard colors, flatbeds carrying rails, ballast, and engineering equipment.
 
-## 7. Building List
-**Financial District:** DMC Tower, DMTA Central HQ, The Diamond Hotel, MegaMall Delhi.
-**Heritage District:** The Grand Mosque, Red Stone Fort, Spice Market, Colonial Post Office.
-**Residential:** Sunrise Towers (Apartments), Gulmohar Villas, Delhi City Hospital, Central Police Station.
-**Tech District:** Nexus Data Center, Innovate IT Park, Cyber Plaza.
-**University:** Central Library (Dome structure), Engineering Labs, Olympic-size Stadium.
-**Industrial:** Mega-Storage Facility, Delhi Power Substation, Freight Depot.
-**Airport:** T1 (Domestic), T2 (International), ATC Tower, Hangar A & B.
+## 8. Transportation Infrastructure
+The city's transit extends beyond the metro:
+- **Bus Rapid Transit (BRT):** Dedicated bus lanes, electric buses, and large bus depots.
+- **Road Network:** Expressways, ring roads, depressed tunnels, flyovers, roundabouts, and functional traffic signals.
+- **Micro-Transit:** Auto-rickshaw stands, cycle lanes, pedestrian bridges, and extensive parking lots.
+- **Rail:** A major heavy railway station for intercity transit connections.
 
-## 8. Construction Phases
+## 9. Building List & Interiors
+**NO EMPTY SHELLS.** Every important building must have a complete interior.
+- **Financial District:** DMC Tower, DMTA Central HQ, The Diamond Hotel, MegaMall Delhi. (Interiors: Cubicles, executive suites, break rooms, boardrooms)
+- **Heritage District:** The Grand Mosque, Red Stone Fort, Spice Market, Colonial Post Office.
+- **Residential:** Sunrise Towers (Apartments), Gulmohar Villas, Delhi City Hospital, Central Police Station. (Interiors: Furnished living spaces, kitchens, bedrooms)
+- **Tech District:** Nexus Data Center, Innovate IT Park, Cyber Plaza.
+- **University:** Central Library (Dome structure), Engineering Labs, Olympic-size Stadium. (Interiors: Classrooms, cafeterias, massive bookshelves, reading rooms)
+- **Industrial:** Mega-Storage Facility, Delhi Power Substation, Freight Depot.
+- **Airport:** T1 (Domestic), T2 (International), ATC Tower, Hangar A & B.
+- **General Interiors Requirements:**
+  - **Malls:** Escalators, food courts, diverse shops, cinemas.
+  - **Hospitals:** Wards, operating theaters, waiting rooms, emergency bays.
+  - **Emergency Services:** Police stations with holding cells; Fire stations with trucks and poles.
+
+## 10. Construction Phases
 - **Phase 1: Foundation & Transit (Weeks 1-4)**
   - WorldPainter generation.
   - Excavate all metro tunnels and construct all tracks.
@@ -88,58 +104,43 @@ The heart of Delhi. 12 distinct lines, ~85 stations.
 - **Phase 6: Gameplay & Optimization (Weeks 18-20)**
   - Redstone implementation, command blocks (arrivals), NPC placement, loot distribution, lighting fixes.
 
-## 9. Block & Material Palettes
-**Modern Architecture (Financial/Tech):**
-- Light Gray/White/Cyan/Black Concrete, Tinted Glass, Cyan/Blue Stained Glass, Sea Lanterns, Smooth Quartz, Deepslate (for roads).
-**Heritage Architecture:**
-- Red Sandstone, Cut Sandstone, Terracotta (various), Bricks, Stripped Acacia/Jungle Logs, Gold Blocks (accents).
-**Residential/General:**
-- Bricks, White/Gray Concrete, Oak/Spruce Planks, Glass Panes, Leaves (Azalea, Oak).
-**Metro/Infrastructure:**
-- Smooth Stone, Stone Bricks, Iron Blocks, Cyan Terracotta, Yellow Concrete (tactile paving), End Rods, Redstone Lamps.
+## 11. Natural Environment & Landscaping Plan
+- **Parks:** Large central parks, botanical gardens with custom greenhouses.
+- **Water:** The Neel River with concrete embankments and heritage Ghats, artificial lakes, rainwater canals.
+- **Greenery:** Tree-lined boulevards, extensive forest patches on the city edge, and a designated wildlife reserve.
 
-## 10. Schematics & Tooling Strategy
-- **WorldEdit:** Used for copy-pasting repetitive elements like standard residential towers, road segments, and metro tunnel rings.
-- **Litematica:** Used for placing complex custom trees, multi-directional track interchanges, and intricate architectural facades.
-- **Axiom (Mod):** Recommended for rapid landscaping and organic riverbank sculpting.
+## 12. Interactive Features & Secrets
+- **Exploration:** Players can find hidden tunnels, secret rooftops, maintenance passages, and historical monuments.
+- **Secrets:** Underground bunkers, a massive Metro Operations Control Center (OCC), a hidden developer room, an abandoned metro station with a ghost platform, and a secret underground research facility.
+- **Gameplay:** Collectibles, achievements, parkour sections across rooftops and cranes, puzzle rooms in maintenance shafts, and an underground metro museum.
 
-## 11. NPC Placement & Loot Tables
-**NPCs (Custom Villagers/Armor Stands):**
-- **Ticket Vendors:** In metro stations.
-- **Street Food Vendors:** In Purana Delhi, selling cooked meats and custom potions (chai/lassi).
-- **Corporate Workers:** Wandering the Financial District.
-- **Security Guards:** At airport terminals, government buildings, and station entrances.
-**Loot Tables (Hidden Chests):**
-- **Maintenance Tunnels:** Iron ingots, redstone dust, tools, hard hats (golden helmets).
-- **Heritage District:** Emeralds, gold nuggets, ancient books (enchanted).
-- **Corporate Rooftops:** Elytra (rare), fireworks, high-tier loot.
+## 13. Gameplay & NPC Placement
+**Supported Modes:** Adventure Mode, Creative Mode, Survival Mode, Multiplayer, Roleplay Servers.
+- **NPC Storylines (Custom Villagers/Armor Stands):** Ticket vendors in metro stations, street food vendors in Purana Delhi, corporate workers, security guards, university students.
+- **Loot Tables:** Hidden chests throughout the city containing custom DMTA hard hats, metro passes, rare items, and lore books.
 
-## 12. Signage & Lighting Plan
-**Signage:**
-- Glowing Item Frames for Metro Line indicators.
-- Hanging signs (mangrove/crimson for contrast) for street names.
-- Banners detailing DMTA logos and station directions.
-**Lighting:**
-- Prevent mob spawns seamlessly.
-- Streetlights: Deepslate walls, iron bars, daylight detectors, and redstone lamps.
-- Interiors: Sea lanterns hidden under carpets, end rods, froglights in modern buildings.
-- Heritage: Lanterns, soul lanterns, campfires (chimneys).
+## 14. Build Quality & Material Palettes
+Architecture combines modern Indian architecture, contemporary urban planning, glass skyscrapers, concrete infrastructure, and detailed landscaping.
+- **Modern/Financial:** Light Gray/White/Cyan Concrete, Tinted/Stained Glass, Sea Lanterns, Smooth Quartz.
+- **Heritage:** Red Sandstone, Cut Sandstone, Terracotta, Bricks, Stripped Logs.
+- **Metro:** Smooth Stone, Stone Bricks, Iron Blocks, Yellow Concrete (tactile paving), End Rods, Redstone Lamps.
 
-## 13. Landscaping Plan
-- **Botanical Garden:** Centerpiece park featuring every Minecraft flora type, custom greenhouses, and a koi pond.
-- **Streetscapes:** Every major road is lined with custom street trees and pedestrian-friendly wide sidewalks (smooth stone slabs).
-- **Riverfront:** Steps leading down to the water (Ghats) in the heritage district, and modern concrete embankments in the downtown area.
+## 15. Schematics Strategy (WorldEdit & Litematica)
+- **WorldEdit Schematics:** Modular tunnel rings, standard residential high-rises, road segments, basic viaduct pillars.
+- **Litematica Schematics:** Custom trees (Banyan, Neem), complex multi-directional track interchanges, intricate heritage facades.
 
-## 14. Interactive Features & Secrets
-- **Operations Control Center (OCC):** A massive redstone/command block room displaying the status of the metro lines.
-- **Abandoned Station:** Between two active stops on the Brown Line, dimly lit, overgrown with sculk/vines.
-- **Developer Room:** Hidden behind a waterfall in the Botanical Garden.
-- **Parkour/Puzzles:** Maintenance shafts require parkour to access hidden loot bunkers.
+## 16. Signage Templates & Lighting Plan
+- **Signage:** Use Glow Item Frames, Mangrove/Crimson hanging signs for contrast. Standardized JSON tellraw messages for metro arrivals. DMTA branding (original) via map art.
+- **Lighting:** Zero unlit areas to prevent mob spawns seamlessly. Streetlights using deepslate walls and daylight detectors. Interiors utilize hidden sea lanterns, froglights, and end rods.
 
-## 15. Optimization Checklist
-- [ ] Ensure all redstone clocks have toggle switches (can be disabled to reduce TPS lag).
-- [ ] Minimize the use of Item Frames and Armor Stands in densely packed areas (use block geometry where possible).
-- [ ] Replace flowing water with source blocks or blue stained glass where animations are unnecessary.
-- [ ] Ensure all underground areas are fully lit to prevent excessive entity spawning calculations.
-- [ ] Bake lighting (using server plugins or chunk pre-generation) before distribution.
-- [ ] Cull unseen faces in complex custom blocks (if using resource packs).
+## 17. Optimization Checklist
+- [ ] Minimize use of ticking entities (Item Frames, Armor Stands) in dense chunks. Use block geometry instead where possible.
+- [ ] Ensure Redstone clocks for metro arrivals have toggle switches to disable them and reduce TPS lag.
+- [ ] Replace flowing water with source blocks or blue stained glass where animations aren't strictly necessary.
+- [ ] Fully light all underground tunnels and maintenance shafts to prevent entity spawning calculations.
+- [ ] Optimize chunk loading by spreading complex redstone machinery out rather than clustering it in one chunk.
+
+## 18. Copyright & Branding Rules
+- **NO COPYRIGHT INFRINGEMENT.** Do NOT use official Delhi Metro logos, DMRC branding, official station names, maps, or real-world announcements.
+- All branding must be for the **DMTA (Delhi Mass Rapid Transit Authority)**.
+- Station names should be inspired by the region but strictly fictional (e.g., "Lotus Hub", "Neel River Plaza", "Heritage Square", "Cyber Junction").
