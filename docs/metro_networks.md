@@ -1,8 +1,7 @@
-# Metro Network Blueprint & Transit Design
+# DMTA Metro Network Blueprint
 
-The Delhi Mass Rapid Transit Authority (DMTA) manages one of the world's most advanced metro systems, consisting of 12 distinct lines and ~85 stations.
-
-## The 12 Metro Lines
+## 1. Metro Network (DMTA)
+The heart of Delhi. 12 distinct lines, ~85 stations.
 1. **Blue Line (East-West):** Cyber Hub to Industrial Area.
 2. **Yellow Line (North-South):** Purana Delhi to Gulmohar Enclave.
 3. **Red Line:** Major commercial artery.
@@ -16,27 +15,21 @@ The Delhi Mass Rapid Transit Authority (DMTA) manages one of the world's most ad
 11. **Gold Line:** Luxury shopping district loop.
 12. **White Line:** Industrial logistics and worker transport.
 
-## Station Designs
-Every station features unique architecture and essential elements:
-- **Ticket Hall:** Automated gates (iron trapdoors/pistons), ticket counters, security scanners.
-- **Access:** Escalators, elevators, and wide staircases.
-- **Platforms:** Platform screen doors (glass panes & iron doors), LED arrival boards, yellow tactile paving (yellow concrete powder/terracotta), priority seating.
-- **Facilities:** Staff rooms, electrical/ventilation shafts, detailed ceilings, and lighting.
+## 2. Station Designs
+**General Station Elements:**
+- **Ticket Hall:** Automated gates (iron trapdoors/pistons), ticket counters, security scanners (end rods & string).
+- **Access:** Escalators (stairs with moving water beneath glass or clever block stairs), Elevators (water columns or redstone flying machines).
+- **Platforms:** Screen doors (glass panes & iron doors), LED arrival boards, yellow tactile paving (yellow concrete powder/terracotta), priority seating, emergency exits.
+- **Back-of-house:** Staff rooms, electrical/ventilation shafts.
 
-**Featured Stations:**
-- **Delhi Central:** Massive 4-level underground interchange hub.
-- **Heritage Square (Brown/Yellow Line):** Arched sandstone ceilings and historical murals.
-- **Cyber City Elevated (Blue/Silver Line):** Sleek white concrete, blue glass canopy.
-- **Terminal 1 (Orange Line):** Integrated into the airport basement with skylights.
+**Unique Station Examples:**
+- **Delhi Central (Interchange):** Massive 4-level underground hub.
+- **Heritage Square (Brown/Yellow Line):** Deep underground, arched sandstone ceilings, historical murals.
+- **Cyber City Elevated (Blue/Silver Line):** Sleek white concrete, blue glass canopy, futuristic lighting.
+- **Terminal 1 (Orange Line):** Integrated directly into the airport basement with massive skylights.
 
-## Trains
-- **Standard Metro:** 6 Cars, white with colored stripes, iron trapdoor seating.
-- **Airport Express:** Plush interior, luggage racks, aerodynamic front.
-- **High Capacity:** 8 Cars, wider aisles, longitudinal seating.
-- **Maintenance Train:** Yellow/Black hazard blocks, flatbeds for rails.
-
-## Signage Templates
-- **Line Indicators:** Glowing Item Frames displaying specific line colors.
-- **Street Names:** Hanging signs (mangrove/crimson for contrast).
-- **Directions:** Banners detailing DMTA logos and station directions.
-- **Branding:** Original DMTA branding on banners and boards (strictly NO DMRC/official copyright material).
+## 3. Train Designs
+1. **Standard Metro (6 Cars):** White with colored stripes (matching the line). Iron trapdoor seating, redstone lamp lighting, end rod poles.
+2. **Airport Express:** Plush interior (colored wool/carpet seats), luggage racks (scaffolding/chests), aerodynamic front.
+3. **High Capacity (8 Cars):** Wider aisles, longitudinal seating, standing room emphasis.
+4. **Maintenance Train:** Yellow/Black hazard blocks, flatbeds carrying rails and gravel.

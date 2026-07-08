@@ -1,22 +1,10 @@
-# Gameplay, Lore & Interactive Features
+# Gameplay, Lore, and Interactives
 
-## Lore
-**Delhi Megacity** is an original, fictionalized metropolis inspired by the real-world Indian capital. It blends ancient heritage with cutting-edge modernization. The city is governed by the Delhi Municipal Corporation (DMC) and its extensive transit is managed by the Delhi Mass Rapid Transit Authority (DMTA).
+## 1. Lore
+A massive fictionalized city inspired by the real-world Delhi. It is an ancient capital that underwent rapid modernization in the 21st century. It is now governed by the Delhi Municipal Corporation (DMC), with transit overseen by the Delhi Mass Rapid Transit Authority (DMTA). It boasts a bustling economy driven by a massive tech sector, heavy industry, and a thriving heritage tourism industry.
 
-## Gameplay Modes Supported
-- **Adventure Mode:** Exploring the city, finding secrets.
-- **Creative Mode:** Expanding the city.
-- **Survival/Multiplayer:** Roleplay servers, economy plugins.
-
-## Interactive Features & Secrets
-- **Operations Control Center (OCC):** A hidden redstone room monitoring the metro lines.
-- **Abandoned Station:** A ghost platform on the Brown Line, overgrown with sculk.
-- **Developer Room:** Hidden behind a waterfall in the Botanical Garden.
-- **Maintenance Tunnels:** Accessible via secret hatches, containing parkour challenges.
-- **Underground Bunkers & Research Facilities:** Hidden deep below the Tech District.
-
-## NPC Placement & Loot Tables
-**NPC Placement (Custom Villagers/Armor Stands):**
+## 2. NPC Placement & Loot Tables
+**NPCs (Custom Villagers/Armor Stands):**
 - **Ticket Vendors:** In metro stations.
 - **Street Food Vendors:** In Purana Delhi, selling cooked meats and custom potions (chai/lassi).
 - **Corporate Workers:** Wandering the Financial District.
@@ -26,3 +14,9 @@
 - **Maintenance Tunnels:** Iron ingots, redstone dust, tools, hard hats (golden helmets).
 - **Heritage District:** Emeralds, gold nuggets, ancient books (enchanted).
 - **Corporate Rooftops:** Elytra (rare), fireworks, high-tier loot.
+
+## 3. Interactive Features & Secrets
+- **Operations Control Center (OCC):** A massive redstone/command block room displaying the status of the metro lines.
+- **Abandoned Station:** Between two active stops on the Brown Line, dimly lit, overgrown with sculk/vines.
+- **Developer Room:** Hidden behind a waterfall in the Botanical Garden.
+- **Parkour/Puzzles:** Maintenance shafts require parkour to access hidden loot bunkers.
