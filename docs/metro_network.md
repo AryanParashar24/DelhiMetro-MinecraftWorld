@@ -1,5 +1,7 @@
 ## 4. Metro Network Blueprint (DMTA)
+
 The heart of Delhi. 12 distinct lines, ~85 stations.
+
 1. **Blue Line (East-West):** Cyber Hub to Industrial Area.
 2. **Yellow Line (North-South):** Purana Delhi to Gulmohar Enclave.
 3. **Red Line:** Major commercial artery.
