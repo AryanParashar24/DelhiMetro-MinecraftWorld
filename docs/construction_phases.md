@@ -1,4 +1,5 @@
-## 8. Construction Phases
+# 8. Construction Phases
+
 - **Phase 1: Foundation & Transit (Weeks 1-4)**
   - WorldPainter generation.
   - Excavate all metro tunnels and construct all tracks.
