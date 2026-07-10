@@ -1,7 +1,9 @@
 # District Layouts and Building Lists
 
 ## 1. District Layout
+
 The city is divided into 7 distinct zones:
+
 1. **Delhi Downtown (Financial District):** Center. Glass towers, DMTA HQ, luxury hotels, massive convention center.
 2. **Purana Delhi (Heritage City):** North. Narrow alleys, bustling markets (bazaars), sandstone monuments, colonial-era municipal buildings, street food stalls.
 3. **Cyber Hub (Tech District):** West. AI companies, data centers, modern startup campuses, glass-and-steel architecture.
@@ -11,6 +13,7 @@ The city is divided into 7 distinct zones:
 7. **Delhi International Airport (VIA):** Far East. Two large terminals, runways, maintenance hangars.
 
 ## 2. Building List
+
 **Financial District:** DMC Tower, DMTA Central HQ, The Diamond Hotel, MegaMall Delhi.
 **Heritage District:** The Grand Mosque, Red Stone Fort, Spice Market, Colonial Post Office.
 **Residential:** Sunrise Towers (Apartments), Gulmohar Villas, Delhi City Hospital, Central Police Station.
