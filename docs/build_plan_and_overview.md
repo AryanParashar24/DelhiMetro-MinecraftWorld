@@ -1,4 +1,5 @@
-## 1. Complete Build Plan & Overview
+# 1. Complete Build Plan & Overview
+
 **Project Name:** Delhi Metro Megacity
 **Map Dimensions:** 6000 x 6000 blocks (expandable)
 **World Theme:** Modern Indian Megacity with deep heritage roots, centered around a state-of-the-art metro system.
