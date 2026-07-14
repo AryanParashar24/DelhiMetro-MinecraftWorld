@@ -1,5 +1,7 @@
-## 11. NPC Placement & Loot Tables
+# 11. NPC Placement & Loot Tables
+
 **NPCs (Custom Villagers/Armor Stands):**
+
 - **Ticket Vendors:** In metro stations.
 - **Street Food Vendors:** In Purana Delhi, selling cooked meats and custom potions (chai/lassi).
 - **Corporate Workers:** Wandering the Financial District.
