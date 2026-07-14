@@ -1,5 +1,7 @@
-## 12. Signage & Lighting Plan
+# 12. Signage & Lighting Plan
+
 **Signage:**
+
 - Glowing Item Frames for Metro Line indicators.
 - Hanging signs (mangrove/crimson for contrast) for street names.
 - Banners detailing DMTA logos and station directions.
