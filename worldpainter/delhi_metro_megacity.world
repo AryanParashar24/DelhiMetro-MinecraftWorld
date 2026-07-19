@@ -1,0 +1,5 @@
+This is a placeholder for the WorldPainter project file for the Delhi Metro Megacity.
+Dimensions: 6000x6000
+Base Elevation: Y=64 (Plains), Y=90 (Ridge/Tech District), Y=58 (River Basin)
+Custom Terrains: Neel River, Lotus Lake, Crescent Lake, Southern Ridge Forest
+Carved features: 15x15 metro tunnels, 25-block wide highway trenches.
