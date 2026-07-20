@@ -6,21 +6,14 @@ Welcome to the Delhi Metro Megacity project repository! This repository is dedic
 
 The master design documentation is organized into specialized markdown files detailing various aspects of the project:
 
-- [Complete Build Plan & Overview](docs/build_plan_and_overview.md)
-- [Terrain Plan & WorldPainter Strategy](docs/terrain_plan.md)
-- [District Layout](docs/district_layout.md)
-- [Metro Network Blueprint](docs/metro_network.md)
-- [Station Designs](docs/station_designs.md)
-- [Train Designs](docs/train_designs.md)
-- [Building List](docs/building_list.md)
-- [Construction Phases](docs/construction_phases.md)
-- [Block & Material Palettes](docs/palettes.md)
-- [Schematics & Tooling Strategy](docs/schematics.md)
-- [NPC Placement & Loot Tables](docs/npc_and_loot.md)
-- [Signage & Lighting Plan](docs/signage_and_lighting.md)
-- [Landscaping Plan](docs/landscaping.md)
-- [Interactive Features & Secrets](docs/gameplay.md)
-- [Optimization Checklist](docs/optimization.md)
+- [01_BUILD_PLAN_AND_PHASES](docs/01_BUILD_PLAN_AND_PHASES.md)
+- [02_DISTRICT_LAYOUT](docs/02_DISTRICT_LAYOUT.md)
+- [03_METRO_NETWORK_AND_STATIONS](docs/03_METRO_NETWORK_AND_STATIONS.md)
+- [04_TERRAIN_AND_LANDSCAPING](docs/04_TERRAIN_AND_LANDSCAPING.md)
+- [05_PALETTES_AND_MATERIALS](docs/05_PALETTES_AND_MATERIALS.md)
+- [06_SCHEMATICS_AND_TOOLS](docs/06_SCHEMATICS_AND_TOOLS.md)
+- [07_GAMEPLAY_AND_ENTITIES](docs/07_GAMEPLAY_AND_ENTITIES.md)
+- [08_LIGHTING_AND_OPTIMIZATION](docs/08_LIGHTING_AND_OPTIMIZATION.md)
 
 ## Datapack
 
